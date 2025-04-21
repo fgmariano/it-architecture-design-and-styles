@@ -1,3 +1,7 @@
+### Apresentação em vídeo
+
+https://youtu.be/TRDDvUBLGBQ
+
 ### 1 - Problema
 Com a consolidação do trabalho híbrido e remoto, a Class sofre com o seu atual processo de onboarding e gerenciamento de talentos. Os seus novos colaboradores muitas vezes se sentem perdidos durante os primeiros dias principalmente devido à falta de comunicação entre o time de RH, responsável por atender as vagas abertas, e as squads de desenvolvimento que podem nem estar sabendo que a sua vaga aberta foi preenchida e precisa entrar em contato com esse novo funcionário. A equipe do RH pode não ter o contato direto pelo responsável da vaga e precisa depender de um gerente de tecnologia sobrecarregado para direcionar a nova contratação.
 Além disso, com o número de colaboradores especializados em diferentes stacks de tecnologia, os próprios funcionários da Class dependem de uma comunicação bagunçada para tirar dúvidas, como mandar uma pergunta em um grupo dos funcionários e tal pergunta se perder até ser vista por quem realmente poderia ajudar. Fora o tempo gasto procurando, pessoa por pessoa, quem tem aquela informação específica para desbloquear o impedimento de uma equipe. Se fez necessário pensar em uma solução para cobrir esses dois problemas e agilizar o dia-a-dia dentro da empresa.
